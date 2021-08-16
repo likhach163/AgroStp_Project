@@ -1,0 +1,12 @@
+DS18B20.c:18:6:ds18b20_init	16	static,ignoring_inline_asm
+DS18B20.c:26:6:ds18b20_convert_t	8	static
+DS18B20.c:34:10:ds18b20_is_busy	8	static
+DS18B20.c:38:7:ds18b20_read_temperature	8	static
+DS18B20.c:45:6:ds18b20_set_resolution	16	static
+DS18B20.c:55:6:delay_us	16	static
+DS18B20.c:63:6:reset	8	static
+DS18B20.c:70:6:write_bit	16	static
+DS18B20.c:78:6:write_byte	24	static
+DS18B20.c:85:9:get_divider	16	static
+DS18B20.c:97:7:read_temperature	16	static
+DS18B20.c:113:7:receiveDataDs18b20	16	static,ignoring_inline_asm

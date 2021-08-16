@@ -1,0 +1,6 @@
+core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+core_cm4.h:1809:22:__NVIC_SetPriority	16	static
+Sensor.c:12:6:initI2CAddress	8	static
+Sensor.c:30:6:initSTOPMode	8	static
+Sensor.c:41:6:goToSTOPMode	8	static,ignoring_inline_asm
+Sensor.c:50:6:waitForClickButton	8	static
